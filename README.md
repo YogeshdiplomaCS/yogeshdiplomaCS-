@@ -3,8 +3,21 @@
 
 # 👋 Hi, I'm Yogesh  
 🎓 Diploma in Computer Science student | 💻 Learning Python & Java | 🌐 Interested in Web Development & Databases
-# 👋 Hi, I'm Yogesh  
-🎓 Diploma in Computer Science student | 💻 Learning Python & Java | 🌐 Interested in Databases, Tools & Web Development  
+
+ <p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
+    <rect width="100%" height="100%" fill="black"/>
+    <text x="50%" y="50%" fill="purple" font-size="30" font-family="monospace" text-anchor="middle" dominant-baseline="middle">
+      Welcome to my GitHub account
+      <animate attributeName="x" values="0%;50%;100%;50%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="purple;violet;magenta;purple" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?
+size=30&duration=3000&pause=1000&color=800080&background=000000&center=true&vCenter=true&width=700&height=60&lines=✨+Welcome+to+my+GitHub+account+✨;💻+Learning+Java+%26+Python;🚀+Building+Mini+Projects;🌟+Exploring+Open+Source)
+
 
 ---
 # 🚀 Welcome to My Profile Repo
@@ -39,7 +52,9 @@ This repository highlights the tools and technologies I use in my learning journ
 [![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF5722?style=for-the-badge&logo=app-inventor&logoColor=white)](https://appinventor.mit.edu/)  
 [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)  
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)  
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)  
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+![Python](https://img.shields.io/badge/Python-Programming-yellow?logo=python)
+
 
 ---
 
