@@ -53,6 +53,9 @@ This repository highlights the tools and technologies I use in my learning journ
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-OS-orange?logo=ubuntu)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?logo=jira)
+
 
 ## 🎨 Design Tools
 - 🖌️ Adobe Photoshop
