@@ -1,3 +1,9 @@
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshdiplomaCS&theme=react-dark&bg_color=ffffff&color=000000&line=00bfff&point=ff0000&area=true&hide_border=true" alt="Yogesh Contribution Graph" />
+</p>
+
 # yogeshdiplomaCS-
 💻 Diploma in Computer Science student. Experienced with PyCharm, NetBeans, MySQL, PostgreSQL, Scratch, MIT App Inventor, Adobe tools, Blender, and Cisco Packet Tracer. Exploring projects and building skills in software development and design.
 
