@@ -109,7 +109,7 @@ This repository highlights the tools and technologies I use in my learning journ
 
 
 ## 📫 Contact  
-- LinkedIn: [Your LinkedIn Link]  
+- LinkedIn: https://www.linkedin.com/in/yogeshnyogesh/
 - Email: yogeshnyogesh70@gmail.com
 
 ---
