@@ -21,10 +21,6 @@
   </svg>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?
-size=30&duration=3000&pause=1000&color=800080&background=000000&center=true&vCenter=true&width=700&height=60&lines=✨+Welcome+to+my+GitHub+account+✨;💻+Learning+Java+%26+Python;🚀+Building+Mini+Projects;🌟+Exploring+Open+Source)
-
-
 ---
 # 🚀 Welcome to My Profile Repo
 This repository highlights the tools and technologies I use in my learning journey.
@@ -81,7 +77,7 @@ This repository highlights the tools and technologies I use in my learning journ
 
 ## 🎨 Design Tools
 - 🖌️ Adobe Photoshop
-- 🎬 Adobe Premiere Pro
+- 🎬 Adobe
 - 🌀 Blender (3D Modeling)
 - 🌐 Cisco Packet Tracer (Networking)
 
