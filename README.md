@@ -82,13 +82,12 @@ This repository highlights the tools and technologies I use in my learning journ
 - 🌐 Cisco Packet Tracer (Networking)
 
 - ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Welcome+to+My+GitHub!;Learning+Java+%26+Python;Building+Mini+Projects)
-
-
 ## 📊 GitHub Stats
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshdiplomaCS&show_icons=true&theme=radical)
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshdiplomaCS&show_icons=true&theme=radical&cache_seconds=86400)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogeshdiplomaCS&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogeshdiplomaCS&theme=dark&cache_seconds=86400)
+
 
 ## 🛠️ Tools I Use
 <p align="center">
