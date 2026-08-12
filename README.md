@@ -56,6 +56,8 @@ This repository highlights the tools and technologies I use in my learning journ
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)  
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow?logo=python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshdiplomaCS&layout=compact&theme=radical)
+
 
 
 ---
