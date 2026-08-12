@@ -1,115 +1,48 @@
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshdiplomaCS&theme=react-dark&bg_color=ffffff&color=000000&line=00bfff&point=ff0000&area=true&hide_border=true" alt="Yogesh Contribution Graph" />
-</p>
-
-# yogeshdiplomaCS-
-💻 Diploma in Computer Science student. Experienced with PyCharm, NetBeans, MySQL, PostgreSQL, Scratch, MIT App Inventor, Adobe tools, Blender, and Cisco Packet Tracer. Exploring projects and building skills in software development and design.
-
 # 👋 Hi, I'm Yogesh  
-🎓 Diploma in Computer Science student | 💻 Learning Python & Java | 🌐 Interested in Web Development & Databases
+☕ Diploma in Computer Science 🎓 | 💻 Python & Java Learner | 🌐 Web Dev Explorer  
 
- <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
-    <rect width="100%" height="100%" fill="black"/>
-    <text x="50%" y="50%" fill="purple" font-size="30" font-family="monospace" text-anchor="middle" dominant-baseline="middle">
-      Welcome to my GitHub account
-      <animate attributeName="x" values="0%;50%;100%;50%;0%" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="fill" values="purple;violet;magenta;purple" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
-
----
-# 🚀 Welcome to My Profile Repo
-This repository highlights the tools and technologies I use in my learning journey.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hi+I'm+Yogesh;Diploma+CS+Engineer;Web+Dev+Learner;React+%26+CSS+Explorer)](https://git.io/typing-svg)
 
 ---
 
-## 📚 Languages
-- Python 🐍
-- Java ☕
-- SQL 🗄️
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yogeshdiplomaCS&show_icons=true&theme=radical)
 
----
+## 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogeshdiplomaCS&theme=dark)
 
-## 🛠️ Tools
-- PyCharm 🔧
-- NetBeans 🖥️
-- MySQL / PostgreSQL 🗃️
-- Scratch 🎮
-- MIT App Inventor 📱
+## 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshdiplomaCS&theme=react-dark)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yogeshdiplomaCS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-## 🛠️ Tools & Software  
-
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/)  
-[![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF5722?style=for-the-badge&logo=app-inventor&logoColor=white)](https://appinventor.mit.edu/)  
-[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)  
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)  
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
-![Python](https://img.shields.io/badge/Python-Programming-yellow?logo=python)
+## 🐍 Snake Animation
+![Snake](https://github.com/yogeshdiplomaCS/yogeshdiplomaCS/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-FFA500?logo=scratch&logoColor=white)
-![MIT App Inventor](https://img.shields.io/badge/AppInventor-009688?logo=android&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-OS-orange?logo=ubuntu)
-![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?logo=jira)
-![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
-
-
-## 🎨 Design Tools
-- 🖌️ Adobe Photoshop
-- 🎬 Adobe
-- 🌀 Blender (3D Modeling)
-- 🌐 Cisco Packet Tracer (Networking)
-
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hi+I'm+Yogesh;Diploma+CS+Engineer;Web+Dev+Learner;React+%26+CSS+Explorer)](https://git.io/typing-svg)
-
-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Welcome+to+My+GitHub!;Learning+Java+%26+Python;Building+Mini+Projects)
-## 📊 GitHub Stats
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshdiplomaCS&show_icons=true&theme=radical&cache_seconds=86400)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogeshdiplomaCS&theme=dark&cache_seconds=86400)
-
-
-## 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,pycharm,netbeans,blender,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,react,html,css,git,github,vscode,pycharm,netbeans,blender,photoshop" />
 </p>
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yogeshdiplomaCS&color=blue)
-
-
-## 🚀 Featured Projects
-- 📱 Student Management System (Java + MySQL)
-- 🖩 Calculator App (Python GUI)
-- 🌐 Networking Simulation (Cisco Packet Tracer)
-
-
-## 📫 Contact  
-- LinkedIn: https://www.linkedin.com/in/yogeshnyogesh/
-- Email: yogeshnyogesh70@gmail.com
 
 ---
 
-## 📜 License  
-This profile README is licensed under the [MIT License](LICENSE).  
+## 🚀 Featured Projects
+- 📱 Student Management System (Java + MySQL)  
+- 🖩 Calculator App (Python GUI)  
+- 🌐 Networking Simulation (Cisco Packet Tracer)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yogeshdiplomaCS&color=blue)
+
+## 🎵 Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+
+## 📫 Contact  
+- LinkedIn: [Yogesh](https://www.linkedin.com/in/yogeshnyogesh/)  
+- Email: yogeshnyogesh70@gmail.com  
+
+---
