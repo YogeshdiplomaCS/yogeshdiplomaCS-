@@ -11,14 +11,11 @@
 ## 🔥 Streak Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogeshdiplomaCS&theme=dark)
 
-## 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshdiplomaCS&theme=react-dark)
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogeshdiplomaCS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🐍 Snake Animation
-![Snake](https://github.com/yogeshdiplomaCS/yogeshdiplomaCS/blob/output/github-contribution-grid-snake.svg)
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshdiplomaCS&layout=compact&theme=radical)
 
 ---
 
@@ -38,11 +35,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yogeshdiplomaCS&color=blue)
 
-## 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
 ## 📫 Contact  
 - LinkedIn: [Yogesh](https://www.linkedin.com/in/yogeshnyogesh/)  
 - Email: yogeshnyogesh70@gmail.com  
-
----
