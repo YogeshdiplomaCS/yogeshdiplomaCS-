@@ -309,8 +309,6 @@ Full-Stack Projects
 
 <p align="center">
 
-👀 **2,500+ Profile Views**
-
 ⭐ **GitHub Projects**
 
 🔥 **Contribution Streak**
